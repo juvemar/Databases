@@ -1,0 +1,6 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\bin\Debug\_03.ExtractAllArtistsWithXPath.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\bin\Debug\_03.ExtractAllArtistsWithXPath.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\bin\Debug\_03.ExtractAllArtistsWithXPath.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\obj\Debug\03. ExtractAllArtistsWithXPath.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\obj\Debug\_03.ExtractAllArtistsWithXPath.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\03. ExtractAllArtistsWithXPath\obj\Debug\_03.ExtractAllArtistsWithXPath.pdb

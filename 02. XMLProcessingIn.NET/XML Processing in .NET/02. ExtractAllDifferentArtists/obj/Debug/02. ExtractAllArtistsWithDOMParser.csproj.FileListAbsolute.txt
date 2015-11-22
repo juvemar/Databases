@@ -1,0 +1,1 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\bin\Debug\_02.ExtractAllDifferentArtists.exe.config

@@ -1,0 +1,1 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\CraeteXmlFromTextData\bin\Debug\CraeteXmlFromTextData.exe.config

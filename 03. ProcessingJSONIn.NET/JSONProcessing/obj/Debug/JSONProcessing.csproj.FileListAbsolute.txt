@@ -1,0 +1,9 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. Processing JSON in .NET\JSONProcessing\bin\Debug\JSONProcessing.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\bin\Debug\JSONProcessing.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\bin\Debug\JSONProcessing.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\bin\Debug\JSONProcessing.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\bin\Debug\Newtonsoft.Json.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\bin\Debug\Newtonsoft.Json.xml
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\obj\Debug\JSONProcessing.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\obj\Debug\JSONProcessing.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\03. ProcessingJSONIn.NET\JSONProcessing\obj\Debug\JSONProcessing.pdb

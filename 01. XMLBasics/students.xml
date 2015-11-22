@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<students>
+  <student xmlns:students="urn:SofiaStudents-com">
+    <name>Max Pain</name>
+    <sex>Male</sex>
+    <birthDate>26.04.1015</birthDate>
+    <phone>0880808080808</phone>
+    <email>mAx_PaIn@myMail.com</email>
+    <course>3</course>
+    <specialty>ElectroEngeneering</specialty>
+    <facultyNumber>34343434</facultyNumber>
+    <exams>
+      <exam>
+        <name>Maths</name>
+        <tutor>Myhailovski</tutor>
+        <score>56</score>
+      </exam>
+      <exam>
+        <name>Electrotechnics</name>
+        <tutor>Rado</tutor>
+        <score>84</score>
+      </exam>
+      <exam>
+        <name>Physics</name>
+        <tutor>Christova</tutor>
+        <score>15</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Min Pain</name>
+    <sex>Female</sex>
+    <birthDate>16.05.1016</birthDate>
+    <phone>0880909090909</phone>
+    <email>mIn_PaIn@myMail.com</email>
+    <course>3</course>
+    <specialty>ElectroEngeneering</specialty>
+    <facultyNumber>34343435</facultyNumber>
+    <exams>
+      <exam>
+        <name>Maths</name>
+        <tutor>Myhailovski</tutor>
+        <score>67</score>
+      </exam>
+      <exam>
+        <name>Electrotechnics</name>
+        <tutor>Rado</tutor>
+        <score>91</score>
+      </exam>
+      <exam>
+        <name>Physics</name>
+        <tutor>Christova</tutor>
+        <score>20</score>
+      </exam>
+    </exams>
+  </student>
+</students>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<album>
+		<title>The rise</title>
+		<artist>John Stone</artist>
+	</album>
+	<album>
+		<title>The dawn</title>
+		<artist>John Stone</artist>
+	</album>
+	<album>
+		<title>The last resort</title>
+		<artist>Steve Cops</artist>
+	</album>
+	<album>
+		<title>Bad boys</title>
+		<artist>Martin Tim</artist>
+	</album>
+</catalog>

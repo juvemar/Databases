@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <dir path="10. TraverseDirectoryWithX">
+    <dir path="bin">
+      <dir path="Debug">
+        <file name="_10.TraverseDirectoryWithX.exe" />
+        <file name="_10.TraverseDirectoryWithX.exe.config" />
+        <file name="_10.TraverseDirectoryWithX.pdb" />
+        <file name="_10.TraverseDirectoryWithX.vshost.exe" />
+        <file name="_10.TraverseDirectoryWithX.vshost.exe.config" />
+      </dir>
+      <dir path="Release" />
+    </dir>
+    <dir path="obj">
+      <dir path="Debug">
+        <dir path="TempPE" />
+        <file name="10. TraverseDirectoryWithX.csproj.FileListAbsolute.txt" />
+        <file name="DesignTimeResolveAssemblyReferencesInput.cache" />
+        <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+        <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+        <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+        <file name="_10.TraverseDirectoryWithX.exe" />
+        <file name="_10.TraverseDirectoryWithX.pdb" />
+      </dir>
+    </dir>
+    <dir path="Properties">
+      <file name="AssemblyInfo.cs" />
+    </dir>
+    <file name="10. TraverseDirectoryWithX.csproj" />
+    <file name="App.config" />
+    <file name="TraverseDirectoryWithX.cs" />
+  </dir>
+</root>

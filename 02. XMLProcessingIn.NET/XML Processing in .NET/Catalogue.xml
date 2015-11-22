@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue>
+    <album>
+      <name>The rise</name>
+      <artist>John Stone</artist>
+      <year>1999</year>
+      <producer>The woods</producer>
+      <price>19.00</price>
+      <songs>
+        <song>
+          <title>The Cutting</title>
+          <duration>3.34</duration>
+        </song>
+        <song>
+          <title>We are all woodcutters</title>
+          <duration>3.58</duration>
+        </song>
+        <song>
+          <title>Cut them all</title>
+          <duration>3.22</duration>
+        </song>
+      </songs>
+    </album>
+  
+    <album>
+      <name>The dawn</name>
+      <artist>John Stone</artist>
+      <year>2002</year>
+      <producer>City pain</producer>
+      <price>35.00</price>
+      <songs>
+        <song>
+          <title>City boys</title>
+          <duration>3.54</duration>
+        </song>
+        <song>
+          <title>Family is everything</title>
+          <duration>4.23</duration>
+        </song>
+        <song>
+          <title>No way back</title>
+          <duration>3.43</duration>
+        </song>
+      </songs>
+    </album>
+  
+    <album>
+      <name>The last resort</name>
+      <artist>Steve Cops</artist>
+      <year>2005</year>
+      <producer>The apples</producer>
+      <price>15.99</price>
+      <songs>
+        <song>
+          <title>We phone</title>
+          <duration>3.12</duration>
+        </song>
+        <song>
+          <title>Fruit machine</title>
+          <duration>3.36</duration>
+        </song>
+        <song>
+          <title>Juicy baby</title>
+          <duration>2.59</duration>
+        </song>
+      </songs>
+    </album>
+  
+    <album>
+      <name>Bad boys</name>
+      <artist>Martin Tim</artist>
+      <year>2011</year>
+      <producer>Black dragons</producer>
+      <price>22.00</price>
+      <songs>
+        <song>
+          <title>Flyers</title>
+          <duration>3.14</duration>
+        </song>
+        <song>
+          <title>Freedom</title>
+          <duration>4.40</duration>
+        </song>
+        <song>
+          <title>It's all gone</title>
+          <duration>4.23</duration>
+        </song>
+      </songs>
+    </album>
+</catalogue>

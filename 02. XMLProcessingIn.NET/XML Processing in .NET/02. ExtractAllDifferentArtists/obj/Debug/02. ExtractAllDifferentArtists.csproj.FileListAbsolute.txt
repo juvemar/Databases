@@ -1,0 +1,6 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\bin\Debug\_02.ExtractAllDifferentArtists.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\bin\Debug\_02.ExtractAllDifferentArtists.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\bin\Debug\_02.ExtractAllDifferentArtists.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\obj\Debug\02. ExtractAllDifferentArtists.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\obj\Debug\_02.ExtractAllDifferentArtists.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\Databases\02. XMLProcessingIn.NET\XML Processing in .NET\02. ExtractAllDifferentArtists\obj\Debug\_02.ExtractAllDifferentArtists.pdb
